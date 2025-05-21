@@ -2,4 +2,5 @@
 Посты для себя.
 
 ## Посты
-- [2025-05-21: Nvim для бекенд программиста](posts/2025-05-21-nvim-for-backend.md)
+- [Nvim для NodeJS бекенд программиста](posts/nvim-for-backend.md)
+- [Git worktree](posts/git-worktree.md)
